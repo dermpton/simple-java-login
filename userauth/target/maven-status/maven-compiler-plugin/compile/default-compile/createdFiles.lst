@@ -1,0 +1,6 @@
+com\dermpton\userauth\data\DataSource.class
+com\dermpton\userauth\App.class
+com\dermpton\userauth\UserController.class
+module-info.class
+com\dermpton\userauth\model\User.class
+com\dermpton\userauth\data\AppQuery.class
